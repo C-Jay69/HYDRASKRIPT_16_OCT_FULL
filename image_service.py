@@ -82,7 +82,7 @@ Additional requirements:
         
         style_desc = style_descriptions.get(style, style_descriptions['cartoon'])
         
-        prompt = f"""{style_desc}
+prompt = f"""{style_desc}
 
 Scene: {scene_description}
 

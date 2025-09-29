@@ -1,0 +1,49 @@
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Custom brand colors */
+:root {
+  --brand-blue: #0000FF;
+  --brand-yellow: #FFBF00;
+  --brand-magenta: #FF00FF;
+  --brand-cyan: #00FFFF;
+  --brand-sage: #DCDFD5;
+}
+
+/* Custom utility classes */
+.brand-blue { color: var(--brand-blue); }
+.bg-brand-blue { background-color: var(--brand-blue); }
+.brand-yellow { color: var(--brand-yellow); }
+.bg-brand-yellow { background-color: var(--brand-yellow); }
+.brand-magenta { color: var(--brand-magenta); }
+.bg-brand-magenta { background-color: var(--brand-magenta); }
+.brand-cyan { color: var(--brand-cyan); }
+.bg-brand-cyan { background-color: var(--brand-cyan); }
+.brand-sage { color: var(--brand-sage); }
+.bg-brand-sage { background-color: var(--brand-sage); }
+
+/* Gradient backgrounds */
+.gradient-brand {
+  background: linear-gradient(135deg, var(--brand-blue), var(--brand-magenta));
+}
+
+.gradient-accent {
+  background: linear-gradient(135deg, var(--brand-yellow), var(--brand-cyan));
+}
+
+/* Animation classes */
+.animate-fade-in {
+  animation: fadeIn 0.5s ease-in;
+}
+
+.animate-slide-up {
+  animation: slideUp 0.3s ease-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideUp {
+  from { 
