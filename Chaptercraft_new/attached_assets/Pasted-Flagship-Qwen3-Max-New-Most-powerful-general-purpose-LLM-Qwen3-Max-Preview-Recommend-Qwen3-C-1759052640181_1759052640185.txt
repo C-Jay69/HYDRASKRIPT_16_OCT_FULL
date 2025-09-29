@@ -1,0 +1,143 @@
+Flagship
+Qwen3-Max
+New
+
+Most powerful general-purpose LLM
+Qwen3-Max-Preview
+Recommend
+Qwen3-Coder-Plus
+New
+
+Qwen3's latest Coding Agent Model
+Qwen-Plus
+Enhanced LLM
+Qwen-MT-Plus
+Qwen3-based，Pro Translation, 92 Langs
+Qwen-Plus-Latest
+Balanced LLM (dynamic update)
+Qwen3-Max-2025-09-23
+Qwen3-Coder-Plus-2025-09-23
+Qwen-Plus-2025-09-11
+New
+
+Qwen-Plus-2025-07-28
+New
+Qwen3-Coder-Plus-2025-07-22
+New
+
+Qwen-Plus-2025-07-14
+New
+
+Enhanced non-thinking multilingual & tool use
+Qwen-Plus-2025-04-28
+Qwen3，the latest generation LLM
+Qwen3-Next-80B-A3B-Instruct
+Qwen3-Next-80B-A3B-Thinking
+Qwen3-Coder-480B-A35B-Instruct
+New
+
+Qwen3-235B-A22B-Instruct-2507
+New
+
+Qwen3-235B-A22B-Thinking-2507
+New
+
+Qwen3-235B-A22B
+Qwen3，the latest generation LLM
+Qwen3-32B
+Qwen3，the latest cost-optimized LLM
+Qwen-Plus-2025-01-25
+Cost-optimized
+Qwen3-Coder-Flash
+Hot
+Qwen-Flash
+New
+Qwen-MT-Turbo
+Cost-effective translation model
+Qwen-Flash-2025-07-28
+Qwen3-Coder-Flash-2025-07-28
+Hot
+New
+Qwen3-Coder-30B-A3B-Instruct
+Long-ct
+Qwen3-30B-A3B-Instruct-2507
+New
+Qwen3-30B-A3B-Thinking-2507
+New
+Qwen3-30B-A3B
+Qwen3，the latest generation LLM
+Qwen3-14B
+Qwen3，the latest cost-optimized LLM
+Qwen3-8B
+Qwen3，the latest cost-optimized LLM
+Qwen3-4B
+Qwen3，the latest cost-optimized LLM
+Qwen3-1.7B
+Qwen3，the latest cost-optimized LLM
+Qwen3-0.6B
+Qwen3，the latest cost-optimized LLM
+Visual
+Qwen3-VL-Plus
+New
+
+Qwen3-VL-235B-A22B-Instruct
+New
+
+Qwen3-VL-235B-A22B-Thinking
+Qwen-VL-Max
+Most capable visual LLM
+Qwen-VL-Plus
+Enhanced visual LLM
+Qwen-VL-OCR
+Qwen-VL-Plus-Latest
+Qwen-VL-Max-Latest
+Qwen3-VL-Plus-2025-09-23
+Qwen-VL-Max-2025-08-13
+Qwen-VL-Max-2025-04-08
+Qwen-VL-Plus-2025-08-15
+Qwen-VL-Plus-2025-05-07
+Qwen-VL-Plus-2025-01-25
+Qwen2.5-VL-72B-Instruct
+Most capable open source visual model
+Qwen2.5-VL-32b-instruct
+Open source 32B visual model
+Qwen2.5-VL-7B-Instruct
+Balanced open source visual model
+Qwen2.5-VL-3B-Instruct
+Open source visual model for mobile
+Wan
+Wan2.5-T2I-Preview
+Reasoning
+QVQ-Max
+Recommend
+Most capable visual reasoning model
+QVQ-Max-Latest
+Visual reasoning (dynamic update)
+QVQ-Max-2025-03-25
+Older
+Qwen-Max
+Recommend
+Most capable billion-scale LLM
+Qwen-Max-Latest
+Most capable LLM (dynamic update)
+Qwen-Max-2025-01-25
+Qwen-Turbo
+Fast, cost-effective LLM
+Qwen-QwQ-Plus
+Enhanced reasoning model
+Qwen-Turbo-Latest
+Fast, cost-effective LLM (dynamic update)
+Qwen-Turbo-2025-04-28
+Qwen3，the latest cost-optimized LLM
+Qwen2.5-7B-Instruct-1M
+Enhanced open source 7B model with 1M context
+Qwen2.5-14B-Instruct-1M
+Enhanced open source 14B model with 1M context
+Qwen-Turbo-2024-11-01
+Qwen2.5-72B-Instruct
+Open source 72B instruct model
+Qwen2.5-32B-Instruct
+Open source 32B instruct model
+Qwen2.5-14B-Instruct
+Open source 14B instruct model
+Qwen2.5-7B-Instruct
